@@ -3,3 +3,4 @@ cat
 elefant
 tarantula
 lion
+tiger
