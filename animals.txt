@@ -4,3 +4,6 @@ elefant
 tarantula
 lion
 tiger
+girafe
+turtle
+monkey
